@@ -7,7 +7,7 @@
   <img src="TechX%20Website/assets/images/screenshot.PNG" alt="TechX Digital Agency Website Screenshot" width="100%"/>
 </div>
 
---
+---
 
 ## About The Project
 
